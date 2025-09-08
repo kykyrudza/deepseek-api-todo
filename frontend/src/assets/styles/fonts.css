@@ -1,0 +1,13 @@
+/* Symphony Font */
+
+@font-face {
+    font-family: 'Symphony';
+    src: url('@/assets/fonts/symphony-pro-regular.otf') format('opentype');
+}
+
+/* Pacifico Font */
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('@/assets/fonts/Pacifico-Regular.ttf') format('truetype');
+}

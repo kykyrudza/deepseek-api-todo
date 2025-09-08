@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "@/assets/styles/fonts.css";
+
+body{
+    @apply bg-[#050505] h-full;
+}
+
+.bg-layout {
+    @apply bg-white/10 backdrop-blur-lg;
+}
+
+.font-symphony {
+    font-family: 'Symphony', sans-serif;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', sans-serif;
+}
